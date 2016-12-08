@@ -1,8 +1,8 @@
 excerpt_separator: ""
-pygments: true
 markdown: kramdown
 url: http://vlasy.github.io
 title: vlasy
 tagline: lorem ipsum
 description: lorem ipsum description
+gems: [jekyll-paginate]
 paginate: 10
