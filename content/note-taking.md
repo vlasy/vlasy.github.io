@@ -1,15 +1,10 @@
 ---
-title: Not so brief journey through the note-taking landscape
-description: Not so brief journey through the note-taking landscape
-date: 2021-03-18
-tags:
-  - note-taking
-layout: layouts/page.njk
-permalink: /note-taking-overview/
-eleventyNavigation:
-  key: Note taking
-  order: 3
+title: "Note Taking"
+menu: "main"
+date: 2023-03-03T10:08:05+01:00
+draft: false
 ---
+
 ## Project management - kanban boards
 
 Nástroje těžšího kalibru, často používané při práci v týmu. Kanban je cca metodika, kdy máš jednotlivé kroky nějakého procesu (např. backlog -> in progress -> done, cokoliv ti vyhovuje) a jednotlivé “úkoly” v něm posouváš zleva doprava. Tyhle tooly jsou všechny v základu kanban, ale podporují i jiné “pohledy” (timeline, seznam, atp.). U jednotlivých úkolů/položek můžeš často definovat závislosti (souvisí s…, blokuje …), kdo je má na starosti, přidávat k nim štítky, poznámky atp.
@@ -101,4 +96,5 @@ Well that’s all folks. Většinu zmíněných nástrojů jsem vyzkoušel “ab
 **To zní cool, ale takovouhle workflow nepotřebuje vůbec nikdo na týhle planetě, mně stačí Google Drive**
 
 Tak pak to berte jako možnost najít nástroj, který vyhovuje vašim datům a vašemu postupu práce. Ne se snažit napasovat svoje potřeby do něčeho co zrovna váš nástroj umožňuje. A nebo jako možnost mít svoje data verzovaná, zálohovaná a nezávislá na jednom poskytovateli.
+
 
