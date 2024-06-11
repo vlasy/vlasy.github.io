@@ -5,7 +5,7 @@ date: 2024-05-16
 tags:
   - communication
 layout: layouts/post.njk
-draft: true
+draft: false
 ---
 ## Proč jsou e-maily skvělý
 

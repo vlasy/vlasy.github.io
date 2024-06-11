@@ -5,7 +5,7 @@ date: 2024-03-18
 tags:
   - filmy
 layout: layouts/post.njk
-draft: true
+draft: false
 ---
 Díky doporučení od lidí, na jejichž názoru mi záleží, jsem se konečně na Barbie podíval. A ačkoliv jsem nečekal mnoho, i tak jsem byl zklamaný.
 
