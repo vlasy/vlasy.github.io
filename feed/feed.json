@@ -2,8 +2,8 @@
 	"version": "https://jsonfeed.org/version/1.1",
 	"title": "GP",
 	"language": "cs",
-	"home_page_url": "https://vlasy.github.io/eleventy-base-blog/",
-	"feed_url": "https://vlasy.github.io/eleventy-base-blog/feed/feed.json",
+	"home_page_url": "https://vlasy.github.io/",
+	"feed_url": "https://vlasy.github.io/feed/feed.json",
 	"description": "I am writing about my experiences as a naval navel-gazer.",
 	"author": {
 		"name": "Michal Vlasák",
