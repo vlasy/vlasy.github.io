@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-page
+---
+<h1>{{ title }}</h1>
+
+{% block extraArticleHeader %}
+   {% set wc = content | striptags | wordcount %}
+   {% set wPerMinute = (wc / 240) + 1 %}
+    {{ wPerMinute | round }} min read.
+{% endblock %}
+
+{# <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> #}
+
+
+
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{%- endfor %}
+
+
+{{ content | safe }}
+

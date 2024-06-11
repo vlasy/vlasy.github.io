@@ -1,1 +1,0 @@
-You can read something about [note-taking](/note-taking). 
