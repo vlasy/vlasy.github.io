@@ -1,13 +1,12 @@
 ---
-title: Of e-mail
-description: Of e-mail
+title: E-maily
+description: Proč jsou e-maily skvělý
 date: 2024-05-16
 tags:
-  - communication
+  - komunikace
 layout: layouts/post.njk
 draft: false
 ---
-## Proč jsou e-maily skvělý
 
 E-maily jsou defaultně asynchronní a každej je tak bere. Nikdo nečeká že mu na e-mail odepíšete hned. Každej počítá s tím, že na e-mail odepíšete, až se k němu dostanete. Není to žádný instant-messaging. Neukazuje se vám že druhý píše
 
