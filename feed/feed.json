@@ -10,5 +10,21 @@
 		"url": "https://vlasy.github.io/about-me/"
 	},
 	"items": [
+		{
+			"id": "https://vlasy.github.io/blog/e-mails/",
+			"url": "https://vlasy.github.io/blog/e-mails/",
+			"title": "Of e-mail",
+			"content_html": "<h2 id=\"proc-jsou-e-maily-skvely\" tabindex=\"-1\">Proč jsou e-maily skvělý <a class=\"header-anchor\" href=\"https://vlasy.github.io/blog/e-mails/\">#</a></h2>\n<p>E-maily jsou defaultně asynchronní a každej je tak bere. Nikdo nečeká že mu na e-mail odepíšete hned. Každej počítá s tím, že na e-mail odepíšete, až se k němu dostanete. Není to žádný instant-messaging. Neukazuje se vám že druhý píše</p>\n<p>V e-mailech se dá krásně vyhledávat. Žádné proprietární rozhraní. Všechny mail klienti chápou že hledat v nich potřebujete a že hledání musí být rychlé.</p>\n<p>Automatická, perzistentní historie všech zpráv.</p>\n",
+			"date_published": "2024-05-16T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://vlasy.github.io/blog/barbie/",
+			"url": "https://vlasy.github.io/blog/barbie/",
+			"title": "Barbie (2023)",
+			"content_html": "<p>Díky doporučení od lidí, na jejichž názoru mi záleží, jsem se konečně na Barbie podíval. A ačkoliv jsem nečekal mnoho, i tak jsem byl zklamaný.</p>\n<p>Prvně k příběhu. Film představuje Barbie svět, kde všemu vládnou Barbie. Barbie s Kenem odjedou do skutečného světa, tam naopak &quot;všemu vládnou muži&quot;. Ken se vrací do Barbie světa kde záhadným způsobem nastolí patriarchát což tu nikomu nevadí. Barbie se pak vrací do Barbie světa spolu s dvěma ženami z našeho světa a snaží se odstranit patriarchát tím, že Keny odlákají lichotkami a místním Barbie řeknou že je muži využívají.</p>\n<p>Jaká je tedy hlavní pointa filmu? Je to snad to, že extrémy nejsou dobré ani na jednu stranu? To je dle mého celkem &quot;preaching to the choir&quot;, jelikož většina diváků tohleasi ani slyšet nepotřebuje, ne? Nebo má jít o feministický film? Tak nevím, ale v době kdy v některých zemích nemají ženy volební právo a nesmí chodit do školy, mi přijde bědování nad &quot;nároky moderní společnosti&quot; trochu zvláštní.</p>\n<p>A scénář jako takový jsem buďto nepochopil, nebo jsem viděl sestříhanou verzi. Prvotním motorem všeho jsou myšlenky hlavní postavy na smrt, které se ale zjeví bez jakéhokoliv vývoje postavy zničeho nic. Deus ex. Stejně tak, když se Barbie rozhoduje, zda vyrazit do reálného světa, na výběr vlastně vůbec nemá a stejně udělá to, co jí scénář připravil. Deus ex. Ale aby to diváci odpustili, celé je to zabalené do křečovitého boření čtvrté stěny. A takhle to pokračuje celý film.</p>\n<p>Co je ale vyloženě fuckup, je linka s Mattelem. Jakožto vlastník Barbie se Matell musel na celém filmu podílet. Proto, ačkoliv scénář přímo v Mattelu nevznikl, působí všechna snaha o jeho (nebo obecně korporátu) kritiku křečovitě a prostě to filmu vůbec nevěřím. Rádoby objevná poznámka o boardu plném mužů ve firmě, která dělá Barbie, zaprvé nikoho ze židle nezvedne, a za druhé nezakryje fakt, že Mattel je tu hlavním příjemcem PR, které tento film doprovází.</p>\n<p>Důkazem kromě rekordních zisků budiž i nový model Barbie, který se po filmu začal prodávat. &quot;Divná Barbie&quot; - inspirovaná postavou divné Barbie z filmu, není Barbie, která by odrážela důraz na kreativní vyjádření (jak se nám film často snaží říct). Je to prostě jen další model Barbie, který ale vypadá stejně jako její předloha z filmu. V Mattelu tedy nedošlo k žádnému &quot;chytnutí se za nos&quot; nebo procitnutí. Došlo tam jen k nakopnutí jejich marketingu a prodejů.</p>\n<p>Celý film pro mě byl zklamáním a paradoxně nejlepší jeho část byly snad písně (myslím tedy zpěv). Doufal bych v lepší společenskou linku, ale to co jsem viděl na mě působilo jen jako instagramový feminismus. Pojďme se tvářit, že chápeme všechny ty subtilní narážky. Pojďme se společně poplácat po ramenou, že tohle naše společnost potřebovala. Pojďmě si říct, že tohle je to zadostiučinění, na které jsme čekali. Jenže nic takového tam není.</p>\n<p>A celý film tak působí jen jako dlouhá, hloupá, růžová reklama.</p>\n",
+			"date_published": "2024-03-18T00:00:00Z"
+		}
+		
 	]
 }

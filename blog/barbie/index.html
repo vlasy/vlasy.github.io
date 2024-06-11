@@ -3,13 +3,181 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>GP</title>
-		<meta name="description" content="I am writing about my experiences as a naval navel-gazer.">
+		<title>Barbie (2023)</title>
+		<meta name="description" content="Barbie movie review">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="GP">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="GP">
 		<meta name="generator" content="Eleventy v2.0.1">
 		
-		<style>* { box-sizing: border-box; }
+		<style>/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
+* { box-sizing: border-box; }
 /* Defaults */
 :root {
 	/* --font-family: -apple-system, system-ui, sans-serif; */
@@ -345,19 +513,36 @@ h2 + .header-anchor {
 				<ul class="nav">
 					<li class="nav-item"><a href="/blog/">Archiv</a></li>
 					<li class="nav-item"><a href="/note-taking-overview/">Note taking</a></li>
-					<li class="nav-item"><a href="/about/" aria-current="page">O mně</a></li>
+					<li class="nav-item"><a href="/about/">O mně</a></li>
 				</ul>
 			</nav>
 		</header>
 
 		<main id="skip">
-			<h1 id="o-mne" tabindex="-1">O mně <a class="header-anchor" href="#o-mne">#</a></h1>
-<p>I am a person that writes stuff.</p>
+			
+<h1>Barbie (2023)</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2024-03-18">2024-03-18</time></li>
+	<li><a href="/tags/filmy/" class="post-tag">#filmy</a></li>
+</ul>
+
+<p>Díky doporučení od lidí, na jejichž názoru mi záleží, jsem se konečně na Barbie podíval. A ačkoliv jsem nečekal mnoho, i tak jsem byl zklamaný.</p>
+<p>Prvně k příběhu. Film představuje Barbie svět, kde všemu vládnou Barbie. Barbie s Kenem odjedou do skutečného světa, tam naopak &quot;všemu vládnou muži&quot;. Ken se vrací do Barbie světa kde záhadným způsobem nastolí patriarchát což tu nikomu nevadí. Barbie se pak vrací do Barbie světa spolu s dvěma ženami z našeho světa a snaží se odstranit patriarchát tím, že Keny odlákají lichotkami a místním Barbie řeknou že je muži využívají.</p>
+<p>Jaká je tedy hlavní pointa filmu? Je to snad to, že extrémy nejsou dobré ani na jednu stranu? To je dle mého celkem &quot;preaching to the choir&quot;, jelikož většina diváků tohleasi ani slyšet nepotřebuje, ne? Nebo má jít o feministický film? Tak nevím, ale v době kdy v některých zemích nemají ženy volební právo a nesmí chodit do školy, mi přijde bědování nad &quot;nároky moderní společnosti&quot; trochu zvláštní.</p>
+<p>A scénář jako takový jsem buďto nepochopil, nebo jsem viděl sestříhanou verzi. Prvotním motorem všeho jsou myšlenky hlavní postavy na smrt, které se ale zjeví bez jakéhokoliv vývoje postavy zničeho nic. Deus ex. Stejně tak, když se Barbie rozhoduje, zda vyrazit do reálného světa, na výběr vlastně vůbec nemá a stejně udělá to, co jí scénář připravil. Deus ex. Ale aby to diváci odpustili, celé je to zabalené do křečovitého boření čtvrté stěny. A takhle to pokračuje celý film.</p>
+<p>Co je ale vyloženě fuckup, je linka s Mattelem. Jakožto vlastník Barbie se Matell musel na celém filmu podílet. Proto, ačkoliv scénář přímo v Mattelu nevznikl, působí všechna snaha o jeho (nebo obecně korporátu) kritiku křečovitě a prostě to filmu vůbec nevěřím. Rádoby objevná poznámka o boardu plném mužů ve firmě, která dělá Barbie, zaprvé nikoho ze židle nezvedne, a za druhé nezakryje fakt, že Mattel je tu hlavním příjemcem PR, které tento film doprovází.</p>
+<p>Důkazem kromě rekordních zisků budiž i nový model Barbie, který se po filmu začal prodávat. &quot;Divná Barbie&quot; - inspirovaná postavou divné Barbie z filmu, není Barbie, která by odrážela důraz na kreativní vyjádření (jak se nám film často snaží říct). Je to prostě jen další model Barbie, který ale vypadá stejně jako její předloha z filmu. V Mattelu tedy nedošlo k žádnému &quot;chytnutí se za nos&quot; nebo procitnutí. Došlo tam jen k nakopnutí jejich marketingu a prodejů.</p>
+<p>Celý film pro mě byl zklamáním a paradoxně nejlepší jeho část byly snad písně (myslím tedy zpěv). Doufal bych v lepší společenskou linku, ale to co jsem viděl na mě působilo jen jako instagramový feminismus. Pojďme se tvářit, že chápeme všechny ty subtilní narážky. Pojďme se společně poplácat po ramenou, že tohle naše společnost potřebovala. Pojďmě si říct, že tohle je to zadostiučinění, na které jsme čekali. Jenže nic takového tam není.</p>
+<p>A celý film tak působí jen jako dlouhá, hloupá, růžová reklama.</p>
+
+<ul class="links-nextprev"><li>Next: <a href="/blog/e-mails/">Of e-mail</a></li>
+</ul>
 
 		</main>
 
 		<footer></footer>
 
-		<!-- This page `/about/` was built on 2024-06-11T19:21:54.414Z -->
+		<!-- This page `/blog/barbie/` was built on 2024-06-11T19:21:54.419Z -->
 	</body>
 </html>
