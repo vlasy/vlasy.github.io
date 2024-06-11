@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="cs">
+	<title>GP</title>
+	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<link href="https://vlasy.github.io/eleventy-base-blog/feed/feed.xml" rel="self"/>
+	<link href="https://vlasy.github.io/eleventy-base-blog/"/>
+	<updated>2024-06-11T19:08:11Z</updated>
+	<id>https://vlasy.github.io/</id>
+	<author>
+		<name>Michal Vlasák</name>
+		<email>youremailaddress@example.com</email>
+	</author>
+</feed>
