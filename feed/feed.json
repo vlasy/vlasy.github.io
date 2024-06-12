@@ -11,10 +11,18 @@
 	},
 	"items": [
 		{
+			"id": "https://vlasy.github.io/blog/vs-code-local-history/",
+			"url": "https://vlasy.github.io/blog/vs-code-local-history/",
+			"title": "VS Code Local History",
+			"content_html": "<p>Dnes jsem si svou neopatností smazal zdrojáky, na kterých jsem pár hodin pracoval. V gitu jsem je ještě commitnuté neměl, takže nebyli ani v reflogu, tak už jsem myslel že je všemu konec. Ale ukázalo se, že VS Code obsahuje <a href=\"https://code.visualstudio.com/updates/v1_66#_local-history\">&quot;Local History&quot;</a>, která (pokud je zapnutá) uchovává starší verze souboru. Dostat se k nim lze buď přes příkaz &quot;Local History: Find Entry to Restore&quot; nebo tak, že vytvoříte stejně pojmenovaný soubor na stejném místě a v Explorer tabu pak vlevo rozbalíte Timeline. Teď si raději související nastavení změním na vyšší počet souborů.</p>\n",
+			"date_published": "2024-06-11T00:00:00Z"
+		}
+		,
+		{
 			"id": "https://vlasy.github.io/blog/e-mails/",
 			"url": "https://vlasy.github.io/blog/e-mails/",
-			"title": "Of e-mail",
-			"content_html": "<h2 id=\"proc-jsou-e-maily-skvely\" tabindex=\"-1\">Proč jsou e-maily skvělý <a class=\"header-anchor\" href=\"https://vlasy.github.io/blog/e-mails/\">#</a></h2>\n<p>E-maily jsou defaultně asynchronní a každej je tak bere. Nikdo nečeká že mu na e-mail odepíšete hned. Každej počítá s tím, že na e-mail odepíšete, až se k němu dostanete. Není to žádný instant-messaging. Neukazuje se vám že druhý píše</p>\n<p>V e-mailech se dá krásně vyhledávat. Žádné proprietární rozhraní. Všechny mail klienti chápou že hledat v nich potřebujete a že hledání musí být rychlé.</p>\n<p>Automatická, perzistentní historie všech zpráv.</p>\n",
+			"title": "E-maily",
+			"content_html": "<p>E-maily jsou defaultně asynchronní a každej je tak bere. Nikdo nečeká že mu na e-mail odepíšete hned. Každej počítá s tím, že na e-mail odepíšete, až se k němu dostanete. Není to žádný instant-messaging. Neukazuje se vám že druhý píše</p>\n<p>V e-mailech se dá krásně vyhledávat. Žádné proprietární rozhraní. Všechny mail klienti chápou že hledat v nich potřebujete a že hledání musí být rychlé.</p>\n<p>Automatická, perzistentní historie všech zpráv.</p>\n",
 			"date_published": "2024-05-16T00:00:00Z"
 		}
 		,

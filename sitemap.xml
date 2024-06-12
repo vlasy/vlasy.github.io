@@ -17,37 +17,47 @@
 	</url>
 	
 	<url>
-		<loc>https://vlasy.github.io/about/</loc>
+		<loc>https://vlasy.github.io/blog/vs-code-local-history/</loc>
 		<lastmod>2024-06-11</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://vlasy.github.io/about/</loc>
+		<lastmod>2024-06-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://vlasy.github.io/blog/</loc>
-		<lastmod>2024-06-11</lastmod>
+		<lastmod>2024-06-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://vlasy.github.io/</loc>
-		<lastmod>2024-06-11</lastmod>
+		<lastmod>2024-06-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://vlasy.github.io/tags/</loc>
-		<lastmod>2024-06-11</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://vlasy.github.io/tags/note-taking/</loc>
-		<lastmod>2024-06-11</lastmod>
+		<lastmod>2024-06-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://vlasy.github.io/tags/filmy/</loc>
-		<lastmod>2024-06-11</lastmod>
+		<lastmod>2024-06-12</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://vlasy.github.io/tags/communication/</loc>
-		<lastmod>2024-06-11</lastmod>
+		<loc>https://vlasy.github.io/tags/til/</loc>
+		<lastmod>2024-06-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://vlasy.github.io/tags/komunikace/</loc>
+		<lastmod>2024-06-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://vlasy.github.io/tags/note-taking/</loc>
+		<lastmod>2024-06-12</lastmod>
 	</url>
 </urlset>

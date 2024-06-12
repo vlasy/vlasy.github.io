@@ -240,6 +240,7 @@ header {
 	align-items: baseline;
 	counter-increment: start-from -1;
 	margin-bottom: 1em;
+	justify-content: space-between;
 }
 .postlist-item:before {
 	display: inline-block;
@@ -256,11 +257,12 @@ header {
 }
 .postlist-date {
 	word-spacing: -0.5px;
+	margin-left: auto;
 }
 .postlist-link {
 	font-size: 1.1875em; /* 19px /16 */
 	font-weight: 700;
-	flex-basis: calc(100% - 1.5rem);
+	flex-basis: auto;
 	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;
